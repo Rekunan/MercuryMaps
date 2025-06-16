@@ -1,0 +1,221 @@
+# Created with MercuryMapper v4.0.8
+@SAT_VERSION    2
+
+@VERSION        1.0
+@GUID           MM660517c5-d026-4d0a-a632-67efa5ad7053
+@TITLE          Astra Walkthrough
+@RUBI           
+@ARTIST         paraoka
+@AUTHOR         Rekunan
+@BPM_TEXT       225
+
+@BACKGROUND     0
+
+@DIFF           3
+@LEVEL          14.000000
+@CLEAR          0.830000
+
+@PREVIEW_START  0
+@PREVIEW_TIME   10
+
+@JACKET         Astra_walkthrough.jpg
+@BGM            audio.wav
+@BGA            
+@BGM_OFFSET     0.000000
+@BGA_OFFSET     0.000000
+
+@COMMENTS
+
+@GIMMICKS
+0    0    0    BPM               225.000000
+0    0    1    TIMESIG             3      4
+
+@OBJECTS
+0    0    0    15   60   MASK_ADD.CENTER
+2    1280 1    45   16   CHAIN
+2    1440 2    47   16   CHAIN
+2    1600 3    49   16   CHAIN
+2    1760 4    51   16   CHAIN
+3    0    5    52   16   SNAP_BW
+3    640  6    7    16   SNAP_BW
+3    1280 7    22   16   SNAP_BW
+4    0    8    37   16   SNAP_BW
+4    640  9    52   16   SNAP_BW
+4    1280 10   7    16   SNAP_BW
+5    0    11   30   10   TOUCH
+5    320  12   35   10   TOUCH
+5    640  13   40   10   TOUCH
+5    960  14   35   10   TOUCH
+5    1280 15   40   10   TOUCH
+5    1600 16   35   10   TOUCH
+6    0    17   45   10   TOUCH
+6    320  18   40   10   TOUCH
+6    640  19   35   10   TOUCH
+6    960  20   30   10   TOUCH
+6    1280 21   40   10   TOUCH
+6    1600 22   35   10   TOUCH
+7    0    23   37   16   SNAP_BW
+7    640  24   22   16   SNAP_BW
+7    1280 25   7    16   SNAP_BW
+8    0    26   52   16   SNAP_BW
+8    640  27   37   16   SNAP_BW
+8    1280 28   22   16   SNAP_BW
+9    0    29   53   14   TOUCH
+9    320  30   31   14   TOUCH
+9    640  31   31   14   TOUCH
+9    960  32   48   14   TOUCH
+9    1280 33   26   14   TOUCH
+9    1600 34   26   14   TOUCH
+10   0    35   58   14   TOUCH
+10   320  36   36   14   TOUCH
+10   640  37   36   14   TOUCH
+10   960  38   36   14   CHAIN
+10   1120 39   32   14   CHAIN
+10   1280 40   28   14   CHAIN
+10   1440 41   54   14   CHAIN
+10   1600 42   58   14   CHAIN
+10   1760 43   2    14   CHAIN
+11   0    44   7    16   SNAP_BW
+11   640  45   22   16   SNAP_BW
+11   1280 46   37   16   SNAP_BW
+12   0    47   52   16   SNAP_BW
+12   640  48   7    16   SNAP_BW
+12   1280 49   22   16   SNAP_BW
+13   0    50   30   10   CHAIN
+13   320  51   35   10   CHAIN
+13   320  52   54   12   TOUCH
+13   640  53   40   10   CHAIN
+13   640  54   54   12   TOUCH
+13   960  55   35   10   CHAIN
+13   1280 56   40   10   CHAIN
+13   1280 57   54   12   TOUCH
+13   1600 58   35   10   CHAIN
+13   1600 59   54   12   TOUCH
+14   0    60   45   10   CHAIN
+14   320  61   40   10   CHAIN
+14   320  62   54   12   TOUCH
+14   640  63   35   10   CHAIN
+14   640  64   54   12   TOUCH
+14   960  65   30   10   CHAIN
+14   1280 66   40   10   CHAIN
+14   1280 67   54   12   TOUCH
+14   1600 68   35   10   CHAIN
+15   0    69   22   16   SNAP_BW
+15   640  70   7    16   SNAP_BW
+15   1280 71   52   16   SNAP_BW
+16   0    72   37   16   SNAP_BW
+16   640  73   22   16   SNAP_BW
+16   1280 74   7    16   SNAP_BW
+17   0    75   50   10   TOUCH
+17   0    76   40   10   TOUCH
+17   640  77   46   10   CHAIN
+17   960  78   48   10   CHAIN
+17   1280 79   46   10   CHAIN
+17   1600 80   44   10   CHAIN
+18   0    81   36   10   TOUCH
+18   0    82   46   10   CHAIN
+18   640  83   44   10   CHAIN
+18   960  84   46   10   CHAIN
+18   1280 85   44   10   CHAIN
+18   1600 86   42   10   CHAIN
+19   0    87   34   10   TOUCH
+19   0    88   44   10   CHAIN
+19   640  89   42   10   CHAIN
+19   960  90   44   10   CHAIN
+19   1280 91   42   10   CHAIN
+19   1600 92   40   10   CHAIN
+20   0    93   32   10   TOUCH
+20   0    94   42   10   CHAIN
+20   640  95   40   10   CHAIN
+20   960  96   42   10   CHAIN
+20   1280 97   40   10   CHAIN
+20   1600 98   38   10   CHAIN
+21   0    99   30   10   TOUCH
+21   0    100  40   10   CHAIN
+21   320  101  44   10   CHAIN
+21   640  102  42   10   CHAIN
+21   960  103  46   10   CHAIN
+21   1280 104  48   10   CHAIN
+22   0    105  52   8    CHAIN
+22   320  106  56   8    CHAIN
+22   640  107  54   8    CHAIN
+22   960  108  58   8    CHAIN
+22   1280 109  0    8    CHAIN
+23   0    110  40   8    CHAIN
+23   0    111  30   10   TOUCH
+23   320  112  44   8    CHAIN
+23   640  113  42   8    CHAIN
+23   960  114  46   8    CHAIN
+23   1280 115  48   8    CHAIN
+24   0    116  52   8    CHAIN
+24   320  117  56   8    CHAIN
+24   640  118  54   8    CHAIN
+24   960  119  58   8    CHAIN
+24   1280 120  0    8    CHAIN
+25   0    121  45   10   CHAIN
+25   0    122  35   10   TOUCH
+25   320  123  49   10   CHAIN
+25   640  124  47   10   CHAIN
+25   960  125  51   10   CHAIN
+25   1280 126  53   10   CHAIN
+26   0    127  57   8    CHAIN
+26   320  128  1    8    CHAIN
+26   640  129  59   8    CHAIN
+26   960  130  3    8    CHAIN
+26   1280 131  5    8    CHAIN
+27   0    132  9    6    CHAIN
+27   320  133  13   6    CHAIN
+27   640  134  11   6    CHAIN
+27   960  135  15   6    CHAIN
+27   1280 136  17   6    CHAIN
+28   1280 137  9    60   TOUCH
+29   0    138  45   16   TOUCH
+29   640  139  45   16   TOUCH
+29   960  140  29   16   TOUCH
+29   1600 141  45   16   TOUCH
+30   0    142  29   16   TOUCH
+30   320  143  45   16   TOUCH
+30   640  144  29   16   TOUCH
+30   1280 145  45   16   TOUCH
+30   1600 146  45   16   TOUCH
+30   1760 147  29   16   TOUCH
+31   0    148  45   16   TOUCH
+31   640  149  29   16   TOUCH
+31   960  150  45   16   TOUCH
+31   1600 151  29   16   TOUCH
+32   0    152  45   16   TOUCH
+32   320  153  29   16   TOUCH
+32   640  154  45   16   TOUCH
+32   1280 155  29   16   TOUCH
+32   1600 156  29   16   TOUCH
+32   1760 157  45   16   TOUCH
+33   0    158  29   16   TOUCH
+33   640  159  45   16   TOUCH
+33   960  160  29   16   TOUCH
+33   1600 161  45   16   TOUCH
+34   0    162  29   16   TOUCH
+34   320  163  45   16   TOUCH
+34   640  164  29   16   TOUCH
+34   1280 165  45   16   TOUCH
+34   1600 166  45   16   TOUCH
+34   1760 167  29   16   TOUCH
+35   0    168  45   16   TOUCH
+35   640  169  29   16   TOUCH
+35   960  170  45   16   TOUCH
+35   1600 171  29   16   TOUCH
+36   0    172  45   16   TOUCH
+36   320  173  29   16   TOUCH
+36   640  174  45   16   TOUCH
+36   1280 175  45   60   TOUCH
+37   0    176  25   14   TOUCH
+37   320  177  0    14   TOUCH
+37   640  178  0    14   TOUCH
+37   960  179  29   14   TOUCH
+37   1280 180  56   14   TOUCH
+37   1600 181  56   14   TOUCH
+38   0    182  50   14   TOUCH
+38   320  183  46   14   TOUCH
+38   640  184  42   14   TOUCH
+38   960  185  46   14   TOUCH
+38   1280 186  42   14   TOUCH
+38   1600 187  38   14   TOUCH
