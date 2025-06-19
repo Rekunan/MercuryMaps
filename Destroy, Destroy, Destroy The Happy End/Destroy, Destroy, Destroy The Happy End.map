@@ -1,0 +1,120 @@
+# Created with MercuryMapper v4.0.8
+@SAT_VERSION    2
+
+@VERSION        
+@GUID           MM35e611fe-3440-472c-9bf6-04ef39abbcd1
+@TITLE          
+@RUBI           
+@ARTIST         
+@AUTHOR         
+@BPM_TEXT       218
+
+@BACKGROUND     0
+
+@DIFF           0
+@LEVEL          0.000000
+@CLEAR          0.830000
+
+@PREVIEW_START  0
+@PREVIEW_TIME   10
+
+@JACKET         
+@BGM            audio.wav
+@BGA            
+@BGM_OFFSET     0.000000
+@BGA_OFFSET     0.000000
+
+@COMMENTS
+
+@GIMMICKS
+0    0    0    BPM               218.000000
+0    0    1    TIMESIG             4      4
+
+@OBJECTS
+0    0    0    15   60   MASK_ADD.CENTER
+5    0    1    0    15   SNAP_FW
+5    0    2    0    15   HOLD_START
+5    360  3    0    15   HOLD_END
+5    480  4    30   15   HOLD_START
+5    720  5    30   15   HOLD_END
+5    840  6    30   15   HOLD_START
+5    1080 7    30   15   HOLD_END
+5    1200 8    30   15   HOLD_START
+5    1440 9    30   15   HOLD_END
+5    1560 10   30   15   HOLD_START
+5    1800 11   30   15   HOLD_END
+6    120  12   30   15   HOLD_START
+6    360  13   30   15   HOLD_END
+6    480  14   30   15   HOLD_START
+6    720  15   30   15   HOLD_END
+6    840  16   30   15   HOLD_START
+6    1080 17   30   15   HOLD_END
+6    1200 18   30   15   HOLD_START
+6    1320 19   30   15   HOLD_END
+6    1440 20   0    15   SNAP_FW
+6    1440 21   0    15   HOLD_START
+6    1800 22   0    15   HOLD_END
+7    0    23   0    15   SNAP_FW
+7    0    24   0    15   HOLD_START
+7    360  25   0    15   HOLD_END
+7    480  26   30   15   HOLD_START
+7    720  27   30   15   HOLD_END
+7    840  28   30   15   HOLD_START
+7    1080 29   30   15   HOLD_END
+7    1200 30   30   15   HOLD_START
+7    1440 31   30   15   HOLD_END
+7    1560 32   30   15   HOLD_START
+7    1800 33   30   15   HOLD_END
+8    120  34   30   15   HOLD_START
+8    360  35   30   15   HOLD_END
+8    480  36   30   15   HOLD_START
+8    720  37   30   15   HOLD_END
+8    840  38   30   15   HOLD_START
+8    1080 39   30   15   HOLD_END
+8    1200 40   30   15   HOLD_START
+8    1320 41   30   15   HOLD_END
+8    1440 42   0    15   SNAP_FW
+8    1440 43   0    15   HOLD_START
+8    1800 44   0    15   HOLD_END
+9    0    45   0    15   SNAP_FW
+9    0    46   0    15   HOLD_START
+9    360  47   0    15   HOLD_END
+9    480  48   30   15   HOLD_START
+9    720  49   30   15   HOLD_END
+9    840  50   30   15   HOLD_START
+9    1080 51   30   15   HOLD_END
+9    1200 52   30   15   HOLD_START
+9    1320 53   30   15   HOLD_END
+9    1440 54   0    15   SNAP_FW
+9    1440 55   0    15   HOLD_START
+9    1800 56   0    15   HOLD_END
+10   0    57   0    15   SNAP_FW
+10   0    58   0    15   HOLD_START
+10   360  59   0    15   HOLD_END
+10   480  60   30   15   HOLD_START
+10   720  61   30   15   HOLD_END
+10   840  62   30   15   HOLD_START
+10   1080 63   30   15   HOLD_END
+10   1200 64   30   15   HOLD_START
+10   1320 65   30   15   HOLD_END
+10   1440 66   0    15   SNAP_FW
+10   1440 67   0    15   HOLD_START
+10   1800 68   0    15   HOLD_END
+11   0    69   0    15   SNAP_FW
+11   0    70   0    15   HOLD_START
+11   360  71   0    15   HOLD_END
+11   480  72   30   15   HOLD_START
+11   840  73   30   15   HOLD_END
+11   960  74   0    15   SNAP_FW
+11   960  75   0    15   HOLD_START
+11   1320 76   0    15   HOLD_END
+11   1440 77   30   15   HOLD_START
+11   1680 78   30   15   HOLD_END
+12   0    79   30   15   HOLD_START
+12   360  80   30   15   HOLD_POINT
+12   480  81   30   60   HOLD_POINT
+12   1440 82   30   60   HOLD_END
+13   0    83   45   15   TOUCH
+13   240  84   45   15   TOUCH
+13   480  85   45   15   TOUCH
+13   720  86   45   15   TOUCH
