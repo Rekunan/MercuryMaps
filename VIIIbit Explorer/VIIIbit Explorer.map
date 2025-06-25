@@ -1,0 +1,86 @@
+# Created with MercuryMapper v4.0.8
+@SAT_VERSION    2
+
+@VERSION        1.0
+@GUID           MMb0ba518a-62b6-423d-850f-edbb62990c20
+@TITLE          VIIIbit Explorer
+@RUBI           
+@ARTIST         Lime
+@AUTHOR         Rekunan
+@BPM_TEXT       188
+
+@BACKGROUND     0
+
+@DIFF           0
+@LEVEL          0.000000
+@CLEAR          0.830000
+
+@PREVIEW_START  0
+@PREVIEW_TIME   10
+
+@JACKET         VIIIbit_Explorer.png
+@BGM            audio.wav
+@BGA            
+@BGM_OFFSET     0.000000
+@BGA_OFFSET     0.000000
+
+@COMMENTS
+
+@GIMMICKS
+0    0    0    BPM               188.000000
+0    0    1    TIMESIG             4      4
+
+@OBJECTS
+0    0    0    15   60   MASK_ADD.CENTER
+3    0    1    55   10   TOUCH
+3    120  2    45   10   TOUCH
+3    360  3    35   10   TOUCH
+3    480  4    25   10   TOUCH
+3    720  5    45   10   TOUCH
+3    840  6    35   10   TOUCH
+3    960  7    45   10   TOUCH
+3    1080 8    35   10   TOUCH
+3    1200 9    45   10   TOUCH
+3    1440 10   35   10   TOUCH
+3    1680 11   25   10   TOUCH
+3    1680 12   45   10   TOUCH
+4    0    13   45   15   SLIDE_CCW
+4    0    14   45   15   HOLD_START
+5    1440 15   45   15   HOLD_END
+4    240  16   37   8    CHAIN
+4    480  17   37   8    CHAIN
+4    720  18   37   8    CHAIN
+4    960  19   32   8    CHAIN
+4    1320 20   37   8    CHAIN
+4    1560 21   42   8    CHAIN
+4    1680 22   37   8    CHAIN
+5    0    23   32   8    CHAIN
+5    360  24   37   8    CHAIN
+5    600  25   42   8    CHAIN
+5    720  26   37   8    CHAIN
+5    960  27   37   8    CHAIN
+5    1200 28   37   8    CHAIN
+5    1440 29   30   15   TOUCH
+5    1680 30   30   15   TOUCH
+5    1800 31   45   15   TOUCH
+6    0    32   30   15   SNAP_FW
+6    0    33   45   15   SLIDE_CCW
+6    0    34   30   15   HOLD_START
+7    0    35   30   15   HOLD_END
+6    240  36   45   8    CHAIN
+6    480  37   45   8    CHAIN
+6    720  38   45   8    CHAIN
+6    960  39   47   8    CHAIN
+6    1320 40   45   8    CHAIN
+6    1560 41   43   8    CHAIN
+6    1680 42   45   8    CHAIN
+7    0    43   45   15   SLIDE_CCW
+7    60   44   47   15   SLIDE_CCW
+7    120  45   49   15   SLIDE_CCW
+7    180  46   51   15   SLIDE_CCW
+7    480  47   45   15   TOUCH
+7    720  48   45   15   TOUCH
+7    960  49   45   15   TOUCH
+7    1320 50   45   15   TOUCH
+7    1680 51   45   15   TOUCH
+8    0    52   45   15   TOUCH
