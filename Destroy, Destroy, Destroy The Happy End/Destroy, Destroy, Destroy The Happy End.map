@@ -1,12 +1,12 @@
 # Created with MercuryMapper v4.0.8
 @SAT_VERSION    2
 
-@VERSION        
-@GUID           MM35e611fe-3440-472c-9bf6-04ef39abbcd1
-@TITLE          
+@VERSION        1.0
+@GUID           MM286b7f46-0052-4bf6-8cd9-591781eebd83
+@TITLE          Destroy, Destroy, Destroy The Happy End
 @RUBI           
-@ARTIST         
-@AUTHOR         
+@ARTIST         黒魔
+@AUTHOR         Rekunan
 @BPM_TEXT       218
 
 @BACKGROUND     0
@@ -18,7 +18,7 @@
 @PREVIEW_START  0
 @PREVIEW_TIME   10
 
-@JACKET         
+@JACKET         Robot&Human.png
 @BGM            audio.wav
 @BGA            
 @BGM_OFFSET     0.000000
