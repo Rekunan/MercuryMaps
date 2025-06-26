@@ -2,7 +2,7 @@
 @SAT_VERSION    2
 
 @VERSION        1.0
-@GUID           MMb0ba518a-62b6-423d-850f-edbb62990c20
+@GUID           MMe8af494f-93cc-4b5c-a46e-522d047c72d0
 @TITLE          VIIIbit Explorer
 @RUBI           
 @ARTIST         Lime
@@ -47,40 +47,36 @@
 4    0    13   45   15   SLIDE_CCW
 4    0    14   45   15   HOLD_START
 5    1440 15   45   15   HOLD_END
-4    240  16   37   8    CHAIN
-4    480  17   37   8    CHAIN
-4    720  18   37   8    CHAIN
-4    960  19   32   8    CHAIN
-4    1320 20   37   8    CHAIN
-4    1560 21   42   8    CHAIN
-4    1680 22   37   8    CHAIN
-5    0    23   32   8    CHAIN
-5    360  24   37   8    CHAIN
-5    600  25   42   8    CHAIN
-5    720  26   37   8    CHAIN
-5    960  27   37   8    CHAIN
-5    1200 28   37   8    CHAIN
-5    1440 29   30   15   TOUCH
-5    1680 30   30   15   TOUCH
-5    1800 31   45   15   TOUCH
-6    0    32   30   15   SNAP_FW
-6    0    33   45   15   SLIDE_CCW
-6    0    34   30   15   HOLD_START
-7    0    35   30   15   HOLD_END
-6    240  36   45   8    CHAIN
-6    480  37   45   8    CHAIN
-6    720  38   45   8    CHAIN
-6    960  39   47   8    CHAIN
-6    1320 40   45   8    CHAIN
-6    1560 41   43   8    CHAIN
-6    1680 42   45   8    CHAIN
-7    0    43   45   15   SLIDE_CCW
-7    60   44   47   15   SLIDE_CCW
-7    120  45   49   15   SLIDE_CCW
-7    180  46   51   15   SLIDE_CCW
-7    480  47   45   15   TOUCH
-7    720  48   45   15   TOUCH
-7    960  49   45   15   TOUCH
-7    1320 50   45   15   TOUCH
-7    1680 51   45   15   TOUCH
-8    0    52   45   15   TOUCH
+5    1440 16   30   15   TOUCH
+5    1680 17   30   15   TOUCH
+5    1800 18   45   15   TOUCH
+6    0    19   30   15   SNAP_FW
+6    0    20   45   15   SLIDE_CCW
+6    0    21   30   15   HOLD_START
+7    0    22   30   15   HOLD_END
+7    0    23   51   15   CHAIN
+7    60   24   43   15   CHAIN
+7    120  25   35   15   CHAIN
+7    180  26   27   15   CHAIN
+7    480  27   22   15   TOUCH
+7    720  28   24   12   TOUCH
+7    960  29   25   10   TOUCH
+7    960  30   15   10   TOUCH
+7    1320 31   5    10   TOUCH
+7    1320 32   15   10   TOUCH
+7    1680 33   5    10   TOUCH
+7    1680 34   55   10   TOUCH
+8    0    35   10   15   TOUCH
+8    0    36   45   15   HOLD_START
+9    1440 37   45   15   HOLD_END
+8    480  38   30   15   TOUCH
+8    960  39   30   15   TOUCH
+8    1440 40   30   15   TOUCH
+9    0    41   30   15   TOUCH
+9    480  42   30   15   TOUCH
+9    960  43   30   15   TOUCH
+9    1440 44   35   10   TOUCH
+9    1680 45   45   10   TOUCH
+9    1800 46   35   10   TOUCH
+10   0    47   25   10   HOLD_START
+10   960  48   25   10   HOLD_END
